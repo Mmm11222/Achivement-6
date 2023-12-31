@@ -1,6 +1,6 @@
 # Boat Sales
 Yacht and Boat online company, that operates 
-through their website and want to uncover more information about their sales patterns.
+through their website and wants to uncover more information about their sales patterns.
 
 # Project Goal
 The  yacht and boat sales website  marketing team is
