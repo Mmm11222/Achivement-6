@@ -14,6 +14,7 @@ The columns are: Price, Boat Type, Manufacturer, Fuel Type, Year Built, Lenght, 
   
 # Folders
 - Project Management: Project Brief
+- Data: original and prepared 
 - Scripts: Python coding involved for the entire analysis process
 - Analysis: Visualizations used for developing insights and presenting on the final report
   
