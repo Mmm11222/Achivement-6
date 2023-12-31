@@ -24,8 +24,8 @@ The columns are: Price, Boat Type, Manufacturer, Fuel Type, Year Built, Lenght, 
 - Deriving variables
 - Grouping data
 - Aggregating data
-- Reporting 
-- Presentation  <a href=[(https://public.tableau.com/shared/XMW7JRMCJ?:display_count=n&:origin=viz_share_link)https://public.tableau.com/shared/XMW7JRMCJ?:display_count=n&:origin=viz_share_link> Project</a>
+- Reporting
+- Presentation  <a href=https://public.tableau.com/app/profile/mafalda.antunes/viz/BoatSales_17039822471950/Story1> Tableau Public</a>
 
 
 
