@@ -18,12 +18,14 @@ The columns are: Price, Boat Type, Manufacturer, Fuel Type, Year Built, Lenght, 
 - Analysis: Visualizations used for developing insights and presenting on the final report
   
 # Tools & Skills  
-- Excel
-- Translating business requirements
-- Data cleaning
-- Data integration/ transformation
-- Statistical hyphotesis testing
-- Visual analysis
-- Forecasting
-- Storytelling in Tableu <a href=<a href=[https://public.tableau.com/app/profile/mafalda.antunes/viz/task2_9-Final/Story1](https://public.tableau.com/shared/XMW7JRMCJ?:display_count=n&:origin=viz_share_link)> Project</a>> 
+- Python
+- Data wrangling
+- Data merging
+- Deriving variables
+- Grouping data
+- Aggregating data
+- Reporting 
+- Presentation  <a href=[(https://public.tableau.com/shared/XMW7JRMCJ?:display_count=n&:origin=viz_share_link)https://public.tableau.com/shared/XMW7JRMCJ?:display_count=n&:origin=viz_share_link> Project</a>
+
+
 
