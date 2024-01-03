@@ -29,4 +29,3 @@ The columns are: Price, Boat Type, Manufacturer, Fuel Type, Year Built, Lenght, 
 - Presentation  <a href=https://public.tableau.com/app/profile/mafalda.antunes/viz/BoatSales_17039822471950/Story1> Tableau Public</a>
 
 
-
